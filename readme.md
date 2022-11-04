@@ -10,4 +10,4 @@ Hello. My name is Dasha Antonenko. For a long time I dreamed of changing the pro
 1. //*[@id="login-label"] 
 2. //*[contains(@class, "MuiFormLabel-root MuiInputLabel")]
 3. //*[text()="Login"] 
-/html/body/div/form/div/div[1]/div[1]/label
+4. /html/body/div/form/div/div[1]/div[1]/label
